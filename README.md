@@ -1,8 +1,8 @@
-- 👋 Hallo, I’m @elguion07
-- 👀 I’m interested in machine learning and data analysis 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- I’m @elguion07
+- I’m interested in Machine learning, data analysis, Mobile development, web development .
+- I’m currently learning Linux OS and PostgreSQL
+-
+- How to reach me [ Instagram : @elguion07]
 
 <!---
 elguion07/elguion07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
